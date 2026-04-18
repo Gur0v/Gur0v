@@ -18,7 +18,6 @@ I spend most of my time messing around with systems, tools, and small projects. 
 
 ## Contact
 
-* GitHub: [https://github.com/Gur0v](https://github.com/Gur0v)
 * Email: [gurov@disroot.org](mailto:gurov@disroot.org)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
 * Telegram: [https://t.me/dsactavis](https://t.me/dsactavis)
