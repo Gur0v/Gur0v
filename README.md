@@ -20,8 +20,6 @@ I spend most of my time messing around with systems, tools, and small projects. 
 
 * Email: [gurov@disroot.org](mailto:gurov@disroot.org)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
-* Telegram: [https://t.me/dsactavis](https://t.me/dsactavis)
-
 
 <!--
 **Gur0v/Gur0v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
