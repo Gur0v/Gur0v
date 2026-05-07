@@ -14,7 +14,7 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * Rust
 * Python
 * Bash
-* HTML / CSS / JavaScript
+* HTML / CSS / TypeScript / JavaScript
 
 ## Contact
 
