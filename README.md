@@ -12,6 +12,7 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * C
 * Rust
 * Python
+* Assembly
 * Bash
 * HTML / CSS / TypeScript / JavaScript
 
