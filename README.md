@@ -9,12 +9,15 @@ I spend most of my time messing around with systems, tools, and small projects. 
 ## Tech Stack
 
 **Languages**
-
 * C
 * Rust
 * Python
 * Bash
 * HTML / CSS / TypeScript / JavaScript
+
+**Environment**
+* OS: Gentoo Linux
+* WM: Sway (Wayland)
 
 ## Contact
 
