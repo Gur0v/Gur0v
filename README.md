@@ -16,13 +16,9 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * Bash
 * HTML / CSS / TypeScript / JavaScript
 
-**Environment**
-* OS: Gentoo Linux
-* WM: Sway (Wayland)
-
 ## Contact
 
-* Email: [gurov@disroot.org](mailto:gurov@disroot.org)
+* Email: [rnbclub@duck.com](mailto:rnbclub@duck.com)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
 
 <!--
