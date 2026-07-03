@@ -18,7 +18,7 @@ I spend most of my time messing around with systems, tools, and small projects. 
 
 ## Contact
 
-* Email: [rnbclub@duck.com](mailto:rnbclub@duck.com)
+* Email: [selinux@duck.com](mailto:selinux@duck.com)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
 
 <!--
