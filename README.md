@@ -16,9 +16,13 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * Bash
 * HTML / CSS / TypeScript / JavaScript
 
+**Environment**
+* OS: Alpine Linux
+* DE: GNOME
+
 ## Contact
 
-* Email: [selinux@duck.com](mailto:selinux@duck.com)
+* Email: [musl@duck.com](mailto:musl@duck.com)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
 
 <!--
