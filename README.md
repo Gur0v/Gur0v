@@ -17,7 +17,7 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * HTML / CSS / TypeScript / JavaScript
 
 **Environment**
-* OS: Alpine Linux
+* OS: Chimera Linux
 * DE: GNOME
 
 ## Contact
