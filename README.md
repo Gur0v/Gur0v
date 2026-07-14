@@ -17,12 +17,12 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * HTML / CSS / TypeScript / JavaScript
 
 **Environment**
-* OS: Chimera Linux
+* OS: Fedora Linux
 * DE: GNOME
 
 ## Contact
 
-* Email: [musl@duck.com](mailto:musl@duck.com)
+* Email: [thuggerthugger1@duck.com](mailto:thuggerthugger1@duck.com)
 * Discord: [https://discord.com/users/507198451998523392](https://discord.com/users/507198451998523392)
 
 <!--
