@@ -17,8 +17,8 @@ I spend most of my time messing around with systems, tools, and small projects. 
 * HTML / CSS / TypeScript / JavaScript
 
 **Environment**
-* OS: Fedora Linux
-* DE: GNOME
+* OS: Artix Linux
+* DE: Sway
 
 ## Contact
 
